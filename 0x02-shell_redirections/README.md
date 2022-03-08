@@ -8,3 +8,4 @@ task 7 command to create a file
 task 9 command to duplicate the last line in a text file
 Task 12 command to display 10 of the most recently modified files
 task 13 command to print unique lines in a txt file
+task14 find lines with the word root in the passwd file
