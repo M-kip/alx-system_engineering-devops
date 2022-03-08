@@ -1,5 +1,5 @@
-# Shell Redirections
-## ALX School 
+# Shell, I/O, Redirections and Filters
+## ALX School ** Project 0x02 shell_redirections **
 * task one print hello world
 * task 2 print /etc/passwd file contents
 * task 3 print the contents of 2 files
