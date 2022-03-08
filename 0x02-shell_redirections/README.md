@@ -5,3 +5,6 @@ task 4 print the last 10 lines in a file command
 task 5 command to print the first 10 lines of text ina file
 task 6 command to print the 3 line of a text file
 task 7 command to create a file
+task 9 command to duplicate the last line in a text file
+Task 12 command to display 10 of the most recently modified files
+task 13 command to print unique lines in a txt file
