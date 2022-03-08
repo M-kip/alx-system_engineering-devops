@@ -12,3 +12,4 @@ task14 find lines with the word root in the passwd file
 task 15 cmmand to count the number of times the word root appears in passwd file
 task 16 command to display 3 lines after the lines with root word in the passwd file
 task 17 command to print all the lines excluding the ones matching the pattern
+task 18 command to list lines starting with a letter ignore case
