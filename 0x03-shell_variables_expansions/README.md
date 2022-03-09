@@ -17,3 +17,4 @@
 * file name 11 binary to decimal Command to convert binary to decimal number
 * file name 12 combinations Script to print all the combinations to two letters except 00
 * file name 13 print float Shell script to print floating point number
+* file name 100 binary to hexadecimal Script to convert binary to hexadecimal
