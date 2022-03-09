@@ -15,3 +15,5 @@
 * file name 9 divide and  rule Command to divide to numbers represented as global variables
 * file name 10 love exponent breath
 * file name 11 binary to decimal Command to convert binary to decimal number
+* file name 12 combinations Script to print all the combinations to two letters except 00
+
