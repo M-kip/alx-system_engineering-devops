@@ -14,3 +14,4 @@
 * file name 8 true knowledge Command to add 2 numbers
 * file name 9 divide and  rule Command to divide to numbers represented as global variables
 * file name 10 love exponent breath
+* file name 11 binary to decimal Command to convert binary to decimal number
