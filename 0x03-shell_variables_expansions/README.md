@@ -13,3 +13,4 @@
 * file name 7 create global variable Command to create a global variable
 * file name 8 true knowledge Command to add 2 numbers
 * file name 9 divide and  rule Command to divide to numbers represented as global variables
+* file name 10 love exponent breath
