@@ -11,4 +11,5 @@
 * file name 5-local variables Command to print loca and global variables
 * file name 6 create local variable Command to create a local variable
 * file name 7 create global variable Command to create a global variable
-8 file name 8 true knowledge Command to add 2 numbers 
+* file name 8 true knowledge Command to add 2 numbers
+* file name 9 divide and  rule Command to divide to numbers represented as global variables
