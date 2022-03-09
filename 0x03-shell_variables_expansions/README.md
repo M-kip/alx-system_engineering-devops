@@ -9,4 +9,5 @@
 * file name 3-paths Command to count the number of paths in the PATH  variable
 * file name 4-global_variables command to print global variables
 * file name 5-local variables Command to print loca and global variables
-* file name 6 create local variable Command to create a local variable 
+* file name 6 create local variable Command to create a local variable
+* file name 7 create global variable Command to create a global variable 
