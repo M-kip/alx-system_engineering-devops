@@ -6,4 +6,3 @@ if [[ "$#" -lt "1" ]]
    else
        ping "$1" -c 5 
 fi
-
