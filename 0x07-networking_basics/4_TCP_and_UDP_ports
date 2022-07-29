@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ss -lp
+netstat -lp
