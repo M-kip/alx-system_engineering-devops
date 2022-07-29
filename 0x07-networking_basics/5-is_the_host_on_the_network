@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # script to excute a ping cmd
-if [[ "$#" -lt "1" ]]
+if [[ "$#" -ne "1" ]]
    then
        echo "Usage: 5-is_the_host_on_network {IP_ADDRESS}"
    else
