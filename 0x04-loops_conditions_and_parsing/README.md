@@ -19,3 +19,4 @@ conditions and parsing
 | 6-superstitious_numbers | Prints superstitious numbers from China, Japan, Italy |
 | 7-clock | Displays hours from 0 - 12, and minutes from 1 - 59 |
 | 8-for_ls | List the contents of the current directory excluding hidden files |
+| 9-to_file_or_not_to_file | Checks if a file exists, is a regular file and is not empty |

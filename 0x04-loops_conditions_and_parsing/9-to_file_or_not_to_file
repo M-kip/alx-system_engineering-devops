@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# check if file exists and is not empty
+# checks if file is a regular file
+file="$1"
+if [[ -e $file ]]
+ then
+     echo "school file exists"
+     if [[ -s $file ]]
+       then
+           echo "school file not empty"
+     else
+           echo "school if is empty"
+     fi
+     if [[ -f $file ]]
+       then
+           echo "school is a regular file"
+     fi
+else
+        echo "school if does not exist"
+fi
