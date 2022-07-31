@@ -5,7 +5,7 @@ declare -i a b;
 a=0;b=1;
 while (( a <= 12 ))
   do
-    echo Hour $a
+    echo Hour: $a
     while (( b <= 59 ))
       do
         echo $b;
