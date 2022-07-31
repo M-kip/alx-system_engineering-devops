@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Loops from 1 - 10
+# Prints bad luck on the 4 iteration
+# Prints good luck on the 8 iteration
+# Prints Best School on the other iterations
+declare -i a;
+a=0;
+while (( a < 10 ))
+  do
+    if (( a == 4 ))
+      then
+          echo "bad luck";
+      elif (( a == 8 ))
+        then
+          echo "good luck";
+      else
+         echo "Best School";
+    fi
+    (( a+=1 ));
+  done

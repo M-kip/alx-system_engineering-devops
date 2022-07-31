@@ -15,3 +15,4 @@ conditions and parsing
 | 2-while_best_school | Print best school 10 times using a while loop |
 | 3-until_best_school | Prints best school 10 times using until loop |
 | 4-if_9_say_hi | Prints Best School 10 times on the 9 iteration it prints Hi" |
+| 5-4_bad_luck_8_is_your_chance | loops from 1 to 10 prints bad luck on the 4 iteration, good luck on the 8 and Best School on the reminder|
