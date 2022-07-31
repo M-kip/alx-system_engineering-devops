@@ -1,0 +1,16 @@
+#1/usr/bin/env bash
+# Displays hours from 0 - 12
+# Displays minutes from 1 -59
+declare -i a b;
+a=0;b=1;
+while (( a <= 12 ))
+  do
+    echo Hour $a
+    while (( b <= 59 ))
+      do
+        echo $b;
+        b+=1;
+      done
+    b=0;
+    a+=1;
+  done
