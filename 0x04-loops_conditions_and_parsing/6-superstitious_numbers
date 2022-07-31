@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Prints superstitious numbers from china japan and italy
 declare -i a;
-a=0;
+a=1;
 while (( a <= 20 ))
   do
     case $a in
