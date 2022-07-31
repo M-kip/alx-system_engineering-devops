@@ -2,10 +2,11 @@
 # Prints Best school but on the 9 iteration prints hi"
 declare -i a;
 a=0;
-while (( a != 10 ))
+while (( a < 10 ))
   do
     if (( a == 8 ))
       then
+          echo "Best School";
           echo "Hi";
       else
           echo "Best School";
