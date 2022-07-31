@@ -7,10 +7,10 @@ declare -i a;
 a=0;
 while (( a < 10 ))
   do
-    if (( a == 4 ))
+    if (( a == 3 ))
       then
           echo "bad luck";
-      elif (( a == 8 ))
+      elif (( a == 7 ))
         then
           echo "good luck";
       else
