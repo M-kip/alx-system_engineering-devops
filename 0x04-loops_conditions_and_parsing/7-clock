@@ -11,6 +11,6 @@ while (( a <= 12 ))
         echo $b;
         b+=1;
       done
-    b=0;
+    b=1;
     a+=1;
   done
