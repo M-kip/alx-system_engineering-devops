@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Prints best school 10 times using a while loop
+declare -i a;
+a=10
+while (( a != 0 ))
+    do
+      echo "Best School";
+    let a-=1;
+    done
