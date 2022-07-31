@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Prints best school 10 times using a until loop
+declare -i a;
+a=10
+until (( a == 0 ))
+    do
+      echo "Best School";
+      (( a-=1 ));
+    done
+| 3-until_best_school | Prints school 10 times using an until loop |
