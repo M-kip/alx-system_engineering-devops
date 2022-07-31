@@ -1,4 +1,4 @@
-#1/usr/bin/env bash
+#!/usr/bin/env bash
 # Displays hours from 0 - 12
 # Displays minutes from 1 -59
 declare -i a b;
