@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Prints Best school but on the 9 iteration prints hi"
+declare -i a;
+a=0;
+while (( a != 10 ))
+  do
+    if (( a == 8 ))
+      then
+          echo "Hi";
+      else
+          echo "Best School";
+    fi
+    (( a+=1 ))
+  done
