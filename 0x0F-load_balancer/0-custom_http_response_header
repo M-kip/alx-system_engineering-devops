@@ -4,3 +4,4 @@ apt-get -y update
 apt-get -y install nginx
 echo "Hello World!" > /var/www/html/index.nginx-debian.html
 sed '/http \}/a add_header X_Served-By 20216-web-01' /etc/nginx/nginx.conf
+service nginx start
